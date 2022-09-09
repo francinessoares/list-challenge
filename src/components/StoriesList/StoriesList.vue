@@ -66,7 +66,7 @@
 </template>
 
 <script>
-import HackerNewsApiService from "../../Store/HackerNewsApiService.js";
+import HackerNewsApiService from "../../store/HackerNewsApiService.js";
 import { BIconStar, BIconStarFill } from "bootstrap-vue";
 
 const service = new HackerNewsApiService();
