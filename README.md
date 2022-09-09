@@ -1,24 +1,22 @@
-# list-challenge
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-## Project setup
-```
-npm install
-```
+## ✨ Tecnologias
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [vue.js](https://vuejs.org/)
+- Javascript
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 💻 Projeto
+Aplicação em SPA para listagem, filtragem e abertura de perfis de notícias consumindo a API do HackerNews
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 🚀 Como executar
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Clonar o repositório
+- Instalar node na versão mais recente em <a href="https://nodejs.org/en/download/>Acessar Download Node</a>
+- Abrir o terminal e acessar a raiz do projeto
+- Executar o comando "npm install"
+- Executar o comando "npm run serve"
+- Acessar a URL em <a href="http://localhost:8080/">Acessar Localhost</a>
