@@ -6,7 +6,7 @@
 
 ## ✨ Tecnologias
 
-- [vue.js](https://vuejs.org/)
+- [Vue.js](https://vuejs.org/)
 - Javascript
 
 ## 💻 Projeto
