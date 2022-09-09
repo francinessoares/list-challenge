@@ -15,8 +15,8 @@ Aplicação em SPA para listagem, filtragem e abertura de perfis de notícias co
 ## 🚀 Como executar
 
 - Clonar o repositório
-- Instalar node na versão mais recente em <a href="https://nodejs.org/en/download/">Acessar Download Node</a>
+- Instalar node na versão mais recente em <a href="https://nodejs.org/en/download/">Download Node</a>
 - Abrir o terminal e acessar a raiz do projeto
 - Executar o comando "npm install"
 - Executar o comando "npm run serve"
-- Acessar a URL em <a href="http://localhost:8080/">Acessar Localhost</a>
+- Acessar a URL em <a href="http://localhost:8080/">Localhost</a>
